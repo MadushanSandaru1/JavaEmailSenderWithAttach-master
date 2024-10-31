@@ -15,6 +15,7 @@ public class JavaEmailSenderWithAttach {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("===JavaEmailSenderWithAttach Started===");
         new MainFrame().setVisible(true);
     }
     
